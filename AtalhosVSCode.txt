@@ -1,0 +1,15 @@
+----------Atalhos do VS Code-------------
+
+Ctrl + N                      -> New File
+Ctrl + , (vírgula)            -> Abre o Settings
+Ctrl + ' (aspas simples)      -> Open Terminal
+Shift + Alt + 'Seta p/ baixo' -> Copia a linha
+Ctrl + ; (ponto e vírgula)    -> Comenta uma linha ou um trecho selecionado
+
+
+******** Settings ***********
+
+Format on Save -> Deixar o primeiro checkbox marcado
+
+  "window.zoomLevel": 0
+

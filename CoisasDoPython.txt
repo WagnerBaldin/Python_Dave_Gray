@@ -1,0 +1,28 @@
+Coisas Do Python
+
+Instalar o Pep8 pra ajudar na identação do VS Code
+Esse é o Utoformatter do Pep8
+No terminal digitar: 
+python -m pip install black
+pip install black
+
+Depois em: Preferences/Settings
+Digitar:
+@lang:python formatt
+
+Default formatter muda para Python
+
+Variáveis não podem iniciar com alguns caracteres:
+
+exemplo!     -> exclamação
+exemplo-dois -> traço
+01exemplo    -> iniciar com zero
+5exemplo     -> ou números
+
+Palavras Reservadas - Não precisa memorar
+Não pode ser uma variável pois faz parte do sistema
+
+if = 'Nome' -> IF é uma palavra reservada, vai dar erro.
+for
+
+
